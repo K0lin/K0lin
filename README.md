@@ -8,10 +8,10 @@
 
 <img src="https://raw.githubusercontent.com/K0lin/K0lin/master/resources/banner.png" alt="Hi , I'm Kolin">
 
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/K0lin/count.svg" />
-</p>
+</p>-->
 
 ## About me
 - A Computer Engineering Student.
