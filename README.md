@@ -35,10 +35,9 @@
 <br>
 <p align=center>
   <div align=center>
-    <!--<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=K0lin&theme=react&border=61dafb&hide_border=true" alt="Kolin" />
-    </a>-->
-      <a align="left" href="https://github.com/K0lin/apiscope" title="Algorithms"><img align="left" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=K0lin&repo=apiscope&theme=react&border_color=61dafb&border_radius=10"></a>
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=K0lin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
@@ -59,7 +58,7 @@
 <div width="100%" align="center">
     <a align="left" href="https://github.com/K0lin/Resizr" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=K0lin&repo=Resizr&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="left" href="https://github.com/K0lin/Discord-Ticketing-Bot" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=K0lin&repo=Discord-Ticketing-Bot&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+<a align="left" href="https://github.com/K0lin/apiscope" title="Algorithms"><img align="left" height="115" width="335" src="https://github-readme-stats.vercel.app/api/pin/?username=K0lin&repo=apiscope&theme=react&border_color=61dafb&border_radius=10"></a></div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
