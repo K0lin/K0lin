@@ -53,18 +53,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=K0lin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-    <a align="left" href="https://github.com/K0lin/Resizr" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=K0lin&repo=Resizr&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--<a align="left" href="https://github.com/K0lin/Discord-Ticketing-Bot" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=K0lin&repo=Discord-Ticketing-Bot&theme=react&border_color=61dafb&border_radius=10"></a>-->
-<a align="left" href="https://github.com/K0lin/apiscope" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=K0lin&repo=apiscope&theme=react&border_color=61dafb&border_radius=10&?"></a></div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/K0lin?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/K0lin.gif?z=6)](https://github4life.herokuapp.com/K0lin)
 
