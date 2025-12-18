@@ -8,6 +8,7 @@
 ## About me
 - A Computer Engineering Student.
 - Loves to explore new technologies.
+- Contact me at: contact-github [at] k0lin [dot] com
   
 ## Languages and Tools
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c-language"></code>
