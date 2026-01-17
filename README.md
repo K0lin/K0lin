@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Engineering%20Student;Backend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#61DAFB&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+
 ## About me
 - A Computer Engineering Student.
 - Loves to explore new technologies.
@@ -28,7 +29,13 @@
   
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0lin&theme=vision_friendly_dark" width="96%" height="auto"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0lin&theme=vision_friendly_dark&utcOffset=+0.0" width="48%" height="auto" style="display: inline;"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=K0lin&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto"><div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0lin&theme=vision_friendly_dark" width="96%" height="auto"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0lin&theme=vision_friendly_dark&utcOffset=+0.0" width="48%" height="auto" style="display: inline;"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K0lin&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto"><div align="center">
+
+
+
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=k0lin&limit=4&transparent=true&t=1768642337336)](https://github.com/amankumarconnect/readme-contribution-stats)
+
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/K0lin.gif?z=6)](https://github4life.herokuapp.com/K0lin)
