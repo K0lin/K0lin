@@ -30,6 +30,9 @@
 <br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K0lin&theme=vision_friendly_dark" width="96%" height="auto"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=K0lin&theme=vision_friendly_dark" width="48%" height="auto" style="display: inline;"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K0lin&theme=vision_friendly_dark&utcOffset=+0.0" width="48%" height="auto" style="display: inline;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=K0lin&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="K0lin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0lin&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="K0lin's GitHub Stats" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=K0lin&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto"><div align="center">
 
 
